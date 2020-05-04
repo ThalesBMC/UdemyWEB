@@ -1,0 +1,14 @@
+*{
+   border:0 
+}
+div{
+    max-width: 100%;
+    background-color: ;
+    height: 100px;
+}
+#cor{
+    background-color: ;
+    display:flex;
+    justify-content: space-around;
+}
+

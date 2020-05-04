@@ -1,0 +1,38 @@
+.boxmodel{ clear:both;
+    text-align: center;
+    border:5px solid skyblue;
+    display: inline-block;
+    padding: 5px 20px ;
+    margin:0px 20px
+}
+#line{color:red
+
+}
+a:hover{
+    color:red;
+   
+}
+a:active{
+    color: gold;
+}
+a:link{
+    text-decoration: none;
+    }
+#about{
+    text-shadow: 2px 2px 5px green, 0 0 10px red;
+    ;
+} 
+li{list-style:  none;
+    display:inline-block;
+    margin-left:70px
+}
+ul{
+    float:right
+}
+
+
+.container{
+    width: 70%;
+    margin=0
+}
+
