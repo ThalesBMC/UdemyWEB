@@ -74,7 +74,7 @@ li {
   background-color: red;
 }
 h3 {
-  position: absolute;
+  position: relative;
   width: 30%;
   left: 60%;
   top: 100px;
